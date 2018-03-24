@@ -2,10 +2,11 @@
 ## Alias OBJ Material File
 # Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 
-newmtl Brick_Antique_02
+newmtl Brick
 Ka 0.000000 0.000000 0.000000
 Kd 0.666667 0.482353 0.164706
 Ks 0.330000 0.330000 0.330000
+map_Kd CubesWithNames/Brick.jpg
 
 newmtl FrontColor
 Ka 0.000000 0.000000 0.000000
